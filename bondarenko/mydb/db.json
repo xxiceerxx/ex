@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "car",
+      "rub": "150000rub"
+    },
+    {
+      "id": 2,
+      "name": "car2",
+      "rub": "1500000rub"
+    },
+    {
+      "id": 3,
+      "name": "car3",
+      "rub": "1500rub"
+    }
+  ]
+}
